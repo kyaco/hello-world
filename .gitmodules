@@ -1,0 +1,3 @@
+[submodule "Cognitive-Emotion-Windows"]
+	path = Cognitive-Emotion-Windows
+	url = https://github.com/Microsoft/Cognitive-Emotion-Windows.git
