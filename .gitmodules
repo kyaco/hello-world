@@ -1,3 +1,6 @@
 [submodule "Cognitive-Emotion-Windows"]
 	path = Cognitive-Emotion-Windows
 	url = https://github.com/Microsoft/Cognitive-Emotion-Windows.git
+[submodule "face-analysis-sdk"]
+	path = face-analysis-sdk
+	url = https://github.com/ci2cv/face-analysis-sdk.git
